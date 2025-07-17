@@ -1,8 +1,9 @@
 👋 About Me
 
-Hi, I’m Suhani Srivastava — a B.Tech CSE student (AI & ML, 2022–2026) with a strong interest in backend development and machine learning.
+Hi, I’m Suhani Srivastava and here's a little sneak peek of what I love and what I'm working on
 
-*   🔧 Currently learning and building with Django, DRF, REST API and real-world backend architectures  
+*   🔧 Currently learning about ML and also real-world backend architectures.
+  
 *   🧠 Interned at IIT Mandi, working on ML-based Syneos Mental Health Project.
  
 *   ✈️ Interning at BEL , working on building an aircraft tracker.
@@ -15,5 +16,5 @@ Hi, I’m Suhani Srivastava — a B.Tech CSE student (AI & ML, 2022–2026) with
    
 *   📫 Reach me at
 *   suhani.srivatava89@gmail.com
-*   [connect on LinkedIn](https://www.linkedin.com/in/suhani-srivastava-588545261)
+*   https://www.linkedin.com/in/suhani-srivastava-588545261
 
