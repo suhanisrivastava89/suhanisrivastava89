@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **final-year B.Tech student** at IMSEC, Ghaziabad (AKTU) and currently working as an **Analyst at Turing**.
+I'm a **Recent B.Tech Graduate** from IMSEC, Ghaziabad (AKTU)
 
 I love building **end-to-end data engineering pipelines, ML models, and AI-powered dashboards** — from raw data ingestion to production-grade insights.
 
@@ -16,8 +16,7 @@ My work spans **ETL pipelines, Medallion architecture, NLP, and LLM-integrated a
 
 - 🥇 **Gold Medalist** — Women's Weightlifting, College Sports Festival  
 - 🥈 **Runner-Up** — National 72-Hour Hackathon, Graphic Era University  
-- 🔬 Interned at **IIT Mandi** (ML), **Bharat Electronics Limited** (Software), and **Vibe Monitor** (Software Dev)
-
+- 🔬 Interned at **IIT Mandi** (ML), **Bharat Electronics Limited** (Software), **Vibe Monitor** (Software Dev), **Turing(Contract)** (Business and AI Analyst and **reThought Insurance** (Property Data Analyst)
 ---
 
 ## 🛠️ Tech Stack
@@ -79,6 +78,15 @@ My work spans **ETL pipelines, Medallion architecture, NLP, and LLM-integrated a
 ---
 
 ## 📌 Featured Projects
+
+### 🔹 LoanLens — Credit Risk & Portfolio Analytics Dashboard
+Credit risk and portfolio analytics project using **Python, Pandas, SQL, Power BI, and DAX**. Cleaned and analyzed 38.6K+ loan records, developed SQL queries to evaluate default risk by segment, and built a 3-page Power BI dashboard to track portfolio performance and visualize default rates across loan grades, ranging from 5.7% (Grade A) to 33.1% (Grade G).  
+📊 Focus: Credit Risk Analysis | Data Cleaning | SQL Analytics | Business Intelligence
+
+### 🔹 Paper.Chat — RAG Research Assistant
+RAG-powered application for querying PDFs and academic research papers using **Python, Streamlit, LangChain, FAISS, Hugging Face Embeddings, and Groq**. Implements document processing, text chunking, embedding generation, and vector storage for semantic retrieval, delivering context-grounded answers through a conversational interface powered by LLMs.  
+🤖 Focus: Retrieval-Augmented Generation (RAG) | LLMs | Semantic Search | Document Q&A
+
 
 ### 🔹 StackPulse — Developer Talent Intelligence Platform
 End-to-end data engineering pipeline on the Stack Overflow 2018 Developer Survey. Medallion architecture (Bronze → Silver → Gold) using **Informatica IICS**, **Oracle**, and a **Power BI** dashboard. Includes a **Streamlit + GPT chatbot** for natural language data querying.  
